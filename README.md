@@ -9,3 +9,4 @@ Programming language: C++ 11
 | 03  | [No Matter How You Slice It](https://adventofcode.com/2018/day/3)  | [AoC2018_3.cpp](/Day03/AoC2018_3.cpp)                                                                                                                 |
 | 04  | [Repose Record](https://adventofcode.com/2018/day/4)               | [AoC2018_4.cpp](/Day04/AoC2018_4.cpp)                                                                                                                 |
 | 05  | [Alchemical Reduction](https://adventofcode.com/2018/day/5)        | [AoC2018_5.cpp](/Day05/AoC2018_5.cpp)                                                                                                                 |
+| 06  | [Chronal Coordinates](https://adventofcode.com/2018/day/6)         | [AoC2018_6A.cpp](/Day06/AoC2018_6A.cpp) <br> [AoC2018_6B.cpp](/Day06/AoC2018_6B.cpp)                                                                  |
