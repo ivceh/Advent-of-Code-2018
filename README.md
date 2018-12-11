@@ -13,3 +13,4 @@ Programming language: C++ 11
 | 07  | [The Sum of Its Parts](https://adventofcode.com/2018/day/7)        | [AoC2018_7A.cpp](/Day07/AoC2018_7A.cpp) <br> [AoC2018_7B.cpp](/Day07/AoC2018_7B.cpp)                                                                  |
 | 08  | [Memory Maneuver](https://adventofcode.com/2018/day/8)             | [AoC2018_8A.cpp](/Day08/AoC2018_8A.cpp) <br> [AoC2018_8B.cpp](/Day08/AoC2018_8B.cpp)                                                                  |
 | 09  | [Marble Mania](https://adventofcode.com/2018/day/9)                | [AoC2018_9.cpp](/Day09/AoC2018_9.cpp)                                                                                                                 |
+| 10  | [The Stars Align](https://adventofcode.com/2018/day/10)            | [AoC2018_10.cpp](/Day10/AoC2018_10.cpp)                                                                                                               |
