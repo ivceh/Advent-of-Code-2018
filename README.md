@@ -19,3 +19,4 @@ Programming language: C++ 11
 | 13  | [Mine Cart Madness](https://adventofcode.com/2018/day/13)           | [AoC2018_13A.cpp](/Day13/AoC2018_13A.cpp) <br> [AoC2018_13B.cpp](/Day13/AoC2018_13B.cpp)                                                              |
 | 14  | [Chocolate Charts](https://adventofcode.com/2018/day/14)            | [AoC2018_14A.cpp](/Day14/AoC2018_14A.cpp) <br> [AoC2018_14B.cpp](/Day14/AoC2018_14B.cpp)                                                              |
 | 15  | [Beverage Bandits](https://adventofcode.com/2018/day/15)            | [AoC2018_15.cpp](/Day15/AoC2018_15.cpp)                                                                                                               |
+| 16  | [Chronal Classification](https://adventofcode.com/2018/day/16)      | [AoC2018_16A.cpp](/Day16/AoC2018_16A.cpp) <br> [AoC2018_16B.cpp](/Day16/AoC2018_16B.cpp)                                                              |
