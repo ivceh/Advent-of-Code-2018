@@ -17,3 +17,4 @@ Programming language: C++ 11
 | 11  | [Chronal Charge](https://adventofcode.com/2018/day/11)              | [AoC2018_11A.cpp](/Day11/AoC2018_11A.cpp) <br> [AoC2018_11B.cpp](/Day11/AoC2018_11B.cpp)                                                              |
 | 12  | [Subterranean Sustainability](https://adventofcode.com/2018/day/12) | [AoC2018_12A.cpp](/Day12/AoC2018_12A.cpp) <br> [AoC2018_12B.cpp](/Day12/AoC2018_12B.cpp)                                                              |
 | 13  | [Mine Cart Madness](https://adventofcode.com/2018/day/13)           | [AoC2018_13A.cpp](/Day13/AoC2018_13A.cpp) <br> [AoC2018_13B.cpp](/Day13/AoC2018_13B.cpp)                                                              |
+| 14  | [Chocolate Charts](https://adventofcode.com/2018/day/14)            | [AoC2018_14A.cpp](/Day14/AoC2018_14A.cpp) <br> [AoC2018_14B.cpp](/Day14/AoC2018_14B.cpp)                                                              |
